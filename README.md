@@ -5,20 +5,19 @@ Building AI course project
 MedAssist AI är ett AI-baserat beslutsstöd som hjälper apotekspersonal att identifiera läkemedelsrelaterade problem och avgöra om egenvård är lämplig eller om patienten bör hänvisas till vård.
 
 ## Background
-Läkemedelsrelaterade problem är vanliga och kan leda till biverkningar, felanvändning och onödiga vårdkontakter. Apotekspersonal måste ofta fatta snabba beslut baserat på begränsad information. Idén bygger på erfarenheter från farmaciutbildning och arbete med patientfall.
+Läkemedelsrelaterade problem är vanliga och kan leda till biverkningar, felanvändning och onödiga vårdkontakter.
 
 ## How is it used?
-Lösningen används på apotek vid kundrådgivning. Användaren matar in grundläggande information som symtom, ålder, läkemedel och riskfaktorer. AI-stödet ger förslag på om egenvård är lämplig eller om hänvisning till sjukvården behövs.
+Lösningen används på apotek vid kundrådgivning som stöd för bedömning av egenvård eller hänvisning.
 
 ## Data sources and AI methods
-Projektet bygger på riktlinjer för egenvård, offentlig läkemedelsinformation och regelbaserad logik i kombination med maskininlärningstekniker.
+Offentlig läkemedelsinformation och regelbaserad logik.
 
 ## Challenges
-Lösningen ersätter inte professionellt omdöme och är beroende av korrekta och uppdaterade riktlinjer. Etiska aspekter kring patientdata måste beaktas.
+Ersätter inte professionellt omdöme.
 
 ## What next?
-Projektet kan vidareutvecklas genom integration med beslutsstödssystem som FASS och Janusmed samt testning i verklig apoteksmiljö.
+Vidareutveckling och testning i verklig miljö.
 
 ## Acknowledgments
-Inspirerad av Elements of AI-kursen och fallbaserat lärande inom farmaci.
-
+Elements of AI.
